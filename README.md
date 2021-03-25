@@ -13,7 +13,7 @@ The easiest way to use the notebooks is to launch JupyterLab in your web browser
 
 ![Upload Button](https://github.com/sm564b/computing_in_the_classroom/blob/main/upload.png) 
 
-7. Now you can open a notebook and interact with them!
+6. Now you can open a notebook and interact with them!
 ------------------------------
 
 Hello! Attached are the jupyter notebooks for Computing in the Classrooms Report 1.
