@@ -4,7 +4,7 @@ IMPORTANT
 If you have no experience using JupyterLab, there is a great 6 minute video explaining a bit about it here https://www.youtube.com/watch?v=A5YyoCKxEOU 
 Of particular interest to first-time users will be from timestamp 4:40 onwards where the narrator explains how to execute code.
 
-**To summarise though**, all you need to do is click on a cell (block of code) and hit SHIFT + ENTER together.
+**To summarise though**, all you need to do to execute code is click on the cell (block of code) and hit SHIFT + ENTER together.
 
 The easiest way to use the notebooks is to launch JupyterLab in your web browser ( please follow the instructions below).
 1. Download this repository (and unzip if necessary) or the individual files you wish to play around with
