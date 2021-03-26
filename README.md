@@ -12,7 +12,7 @@ The easiest way to use the notebooks is to launch JupyterLab in your web browser
 4. Under the "Notebook" heading in the centre of the screen, click the "Python3" widget
 5. Near the top left of the screen, click the "Upload Files" button and navigate through your file browser to upload all the notebooks to JupyterLab
 
-![Upload Button](https://github.com/sm564b/computing_in_the_classroom/blob/main/upload.png) 
+![Upload Button](https://github.com/sm564b/computing_in_the_classroom/blob/main/images/upload.png) 
 
 6. Now you can open a notebook and interact with them!
 ------------------------------
