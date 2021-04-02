@@ -4,7 +4,7 @@ IMPORTANT
 If you have no experience using JupyterLab, there is a great 6 minute video explaining a bit about it here https://www.youtube.com/watch?v=A5YyoCKxEOU 
 Of particular interest to first-time users will be from timestamp 4:40 onwards where the narrator explains how to execute code.
 
-**To summarise though**, all you need to do is click on a cell (block of code) and hit SHIFT + ENTER together.
+**To summarise though**, all you need to do to execute code is click on the cell (block of code) and hit SHIFT + ENTER together. Functions are only initilaised once their cell has been run, so calls in later cells to uninitialised functions and variables won't work.
 
 The easiest way to use the notebooks is to launch JupyterLab in your web browser ( please follow the instructions below).
 1. Download this repository (and unzip if necessary) or the individual files you wish to play around with
@@ -18,9 +18,9 @@ The easiest way to use the notebooks is to launch JupyterLab in your web browser
 6. Now you can open a notebook and interact with them!
 ------------------------------
 
-Hello! Attached are the jupyter notebooks for Computing in the Classrooms Report 1.
-I wrote these jupyter notebooks to aid students in their final year of high school in Scotland to apply the computational thinking and programming skills they've picked up in Visual Basic at Higher to a new language - Python.
+Hello! Attached are the jupyter notebooks for Assignment 2 for Computing in the Classroom.
+I wrote these jupyter notebooks as an extension to those found in the main branch. These extra books are a bit trickier as they try to teach the use of classes in Python by way of: Introduce concept, show example of how it works, ask the student to give it a go.
 
-The different notebook topics are denoted by their numbers, followed by the subject addressed inside and whether they are a worksheet or an answer sheet.
+There are two distinct notebook topics, with a worksheet and accompanying answer sheet for each.
 
 
