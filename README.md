@@ -18,9 +18,8 @@ The easiest way to use the notebooks is to launch JupyterLab in your web browser
 6. Now you can open a notebook and interact with them!
 ------------------------------
 
-Hello! Attached are the jupyter notebooks for Assignment 2 for Computing in the Classroom.
-I wrote these jupyter notebooks as an extension to those found in the main branch. These extra books are a bit trickier as they try to teach the use of classes in Python by way of: Introduce concept, show example of how it works, ask the student to give it a go.
+Hello! Attached are the jupyter notebooks for Computing in the Classrooms Report 1 and Report 2. I wrote these jupyter notebooks to aid students in their final year of high school in Scotland to apply the computational thinking and programming skills they've picked up in Visual Basic at Higher to a new language - Python.
 
-There are two distinct notebook topics, with a worksheet and accompanying answer sheet for each.
+The different notebook topics are denoted by their numbers, followed by the subject addressed inside and whether they are a worksheet or an answer sheet.
 
 
